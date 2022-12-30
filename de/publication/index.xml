@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Duah Philip</title>
+    <link>https://Duah-Philip.github.io/de/publication/</link>
+      <atom:link href="https://Duah-Philip.github.io/de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Duah-Philip.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://Duah-Philip.github.io/de/publication/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of Rock Fragmentation using a Novel Hybrid Evolutionary Algorithm and Extreme Gradient Boosting Machine</title>
+      <link>https://Duah-Philip.github.io/de/publication/conference-paper-2/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Duah-Philip.github.io/de/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling the Capability of Artificial Intelligence for Prediction of Rock Fragmentation</title>
+      <link>https://Duah-Philip.github.io/de/publication/conference-paper/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Duah-Philip.github.io/de/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
